@@ -1,34 +1,41 @@
-
-body{
+body {
   font-family: 'Open Sans', sans-serif;
 }
-.fondo-rosa{
+
+.fondo-rosa {
   background-color: #E83E8C;
 }
-.logo-imagen{
+
+.logo-imagen {
   max-height: 50px;
 }
-.hero h1{
+
+.hero h1 {
   font-size: 3.75em;
 }
-.icons-section{
+
+.icons-section {
   color: white;
   font-size: 2.5em;
 }
-.fa-iconos{
+
+.fa-iconos {
   font-size: 2em;
 }
-.pagos h2{
+
+.pagos h2 {
   font-size: 0.99em;
   padding-top: 10%;
 }
-.logo-footer{
+
+.logo-footer {
   max-height: 100px;
 }
 
 .fondo-celeste {
   background-color: #17A2B8;
 }
+
 .icons {
   display: inline-block;
   width: 30%;
